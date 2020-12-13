@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<Store id="1" title="EX-FS">
+    <Genre id="1" name="Thriller">
+        <Film code="2" duration="158" metascore="60" title="Dragged Across Concrete"/>
+    </Genre>
+    <Genre id="2" name="Sci-Fi">
+        <Film code="3" duration="148" metascore="74" title="Interstellar"/>
+    </Genre>
+    <Genre id="3" name="Drama">
+        <Film code="4" duration="142" metascore="80" title="The Shawshank Redemption"/>
+    </Genre>
+    <Genre id="4" name="Animation">
+        <Film code="1" duration="152" metascore="95" title="WALL-E"/>
+    </Genre>
+</Store>
